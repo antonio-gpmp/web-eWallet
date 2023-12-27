@@ -2,7 +2,7 @@
 
 This repository contains the source code of a web page developed with HTML, CSS and JavaScript, which could be a website offering an app to process your payments and obtain prizes. In addition to the security it offers. 
 
-<a name="web-arquitectura-bosque"></a>
+<a name="web-ewallet"></a>
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -38,7 +38,6 @@ This repository contains the source code of a web page developed with HTML, CSS 
 </div>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -53,7 +52,6 @@ This repository contains the source code of a web page developed with HTML, CSS 
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -111,7 +109,7 @@ Project Link: [https://github.com/antonio-gpmp/web-eWallet](https://github.com/a
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/antonio-gpmp/
 
-[product-screenshot]: img/web-eWallet.png.png
+[product-screenshot]: img/web-eWallet.png
 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
