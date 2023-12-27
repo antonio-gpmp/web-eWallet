@@ -23,7 +23,7 @@ This repository contains the source code of a web page developed with HTML, CSS 
 <br />
 <div align="center">
   <a href="https://antonio-gpmp.github.io/web-eWallet/">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">web-eWallet</h3>
